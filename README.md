@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal Intelligent Book Recommendation System
 *Computer Vision + OCR + Machine Learning — final-year AIML project (Python / Streamlit)*
 
@@ -76,3 +77,6 @@ Optional shared secret: set `VR_BRIDGE_TOKEN` and send `X-Bridge-Token`.
 - Demo data is tiny and synthetic in its user behaviour: recommendation quality figures on it are **not** evidence of
   accuracy (see docs/PROJECT_REPORT.md §Evaluation).
 - Availability is unknown unless typed in or the book was seen in a photo (“recognised in photo — verify on the shelf”).
+=======
+# book_recomendation
+>>>>>>> be67491ff86bf36fd91b6dde8117548c2121b9b5
