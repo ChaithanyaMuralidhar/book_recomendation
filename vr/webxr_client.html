@@ -1,0 +1,16 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Book Scanner - VR/AR client</title>
+<style>body{font-family:sans-serif;margin:16px;max-width:640px}video,canvas{width:100%;background:#000}button,input{font-size:18px;margin:4px 0;padding:8px;width:100%}</style></head>
+<body><h2>Book capture client</h2>
+<p>Camera access needs a secure context (https or http://localhost). See README &gt; VR section.</p>
+<video id="v" autoplay playsinline muted></video><canvas id="c" hidden></canvas>
+<button id="start">1. Start camera</button><button id="snap">2. Capture &amp; send</button>
+<hr><input id="title" placeholder="Or type/dictate a title"><input id="author" placeholder="Author (optional)">
+<button id="sendtxt">Send typed book</button><pre id="log"></pre>
+<script>
+const log=m=>document.getElementById('log').textContent=m, $=id=>document.getElementById(id);
+async function post(body){const r=await fetch('/api/vr/submit',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({device:navigator.userAgent.slice(0,50),...body})});log(r.status+' '+await r.text());}
+$('start').onclick=async()=>{try{$('v').srcObject=await navigator.mediaDevices.getUserMedia({video:{facingMode:'environment'}});}catch(e){log('Camera unavailable: '+e.message)}};
+$('snap').onclick=()=>{const v=$('v'),c=$('c');if(!v.videoWidth){log('Start the camera first');return}c.width=v.videoWidth;c.height=v.videoHeight;c.getContext('2d').drawImage(v,0,0);post({image_b64:c.toDataURL('image/jpeg',0.9)});};
+$('sendtxt').onclick=()=>post({title:$('title').value,author:$('author').value});
+</script></body></html>

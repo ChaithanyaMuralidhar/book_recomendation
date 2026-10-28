@@ -1,0 +1,53 @@
+book_id,title,author,genre,subgenre,isbn,description,publication_year,language,source,scan_confidence,availability
+B001,The Hound of the Baskervilles,Arthur Conan Doyle,Mystery,Detective,,Sherlock Holmes investigates a family curse and a spectral hound haunting the moors of Devon.,1902,English,sample,,Unknown
+B002,And Then There Were None,Agatha Christie,Mystery,Whodunit,,Ten strangers on an isolated island are murdered one by one following a nursery rhyme.,1939,English,sample,,Unknown
+B003,The Murder of Roger Ackroyd,Agatha Christie,Mystery,Detective,,Hercule Poirot untangles a village murder where every guest hides a secret and the narrator conceals the truth.,1926,English,sample,,Unknown
+B004,The Big Sleep,Raymond Chandler,Mystery,Noir,,Private detective Philip Marlowe is hired by a wealthy general and drawn into blackmail and murder in Los Angeles.,1939,English,sample,,Unknown
+B005,Gone Girl,Gillian Flynn,Thriller,Psychological,,A wife disappears on her anniversary and her husband becomes the prime suspect in a marriage full of lies.,2012,English,sample,,Unknown
+B006,The Girl with the Dragon Tattoo,Stieg Larsson,Thriller,Crime,,A journalist and a hacker investigate a decades-old disappearance inside a powerful Swedish family.,2005,English,sample,,Unknown
+B007,The Da Vinci Code,Dan Brown,Thriller,Conspiracy,,A symbologist races across Europe decoding clues about a secret society guarding a hidden religious truth.,2003,English,sample,,Unknown
+B008,Dune,Frank Herbert,Science Fiction,Space Opera,,A noble heir on a desert planet becomes a messiah in a struggle over a valuable spice and a fragile ecology.,1965,English,sample,,Unknown
+B009,Foundation,Isaac Asimov,Science Fiction,Space Opera,,A mathematician predicts the fall of a galactic empire and creates a plan to shorten the coming dark age.,1951,English,sample,,Unknown
+B010,Neuromancer,William Gibson,Science Fiction,Cyberpunk,,A washed-up hacker is hired for a final run through cyberspace controlled by artificial intelligences.,1984,English,sample,,Unknown
+B011,The Martian,Andy Weir,Science Fiction,Hard SF,,An astronaut stranded on Mars uses engineering and humour to survive until rescue arrives.,2011,English,sample,,Unknown
+B012,Ender's Game,Orson Scott Card,Science Fiction,Military SF,,A gifted child is trained in a space battle school to lead humanity against an alien invasion.,1985,English,sample,,Unknown
+B013,The Left Hand of Darkness,Ursula K. Le Guin,Science Fiction,Social SF,,An envoy visits a frozen world whose inhabitants have no fixed gender and confronts politics and loyalty.,1969,English,sample,,Unknown
+B014,The Hobbit,J. R. R. Tolkien,Fantasy,High Fantasy,,A homebody hobbit joins dwarves and a wizard on a quest to reclaim treasure guarded by a dragon.,1937,English,sample,,Unknown
+B015,A Game of Thrones,George R. R. Martin,Fantasy,Epic Fantasy,,Noble families battle for the Iron Throne while an ancient threat gathers beyond a frozen wall.,1996,English,sample,,Unknown
+B016,The Name of the Wind,Patrick Rothfuss,Fantasy,Epic Fantasy,,A legendary magician recounts his youth as an orphan who studies magic at a university and seeks revenge.,2007,English,sample,,Unknown
+B017,Harry Potter and the Philosopher's Stone,J. K. Rowling,Fantasy,Young Adult,,An orphan discovers he is a wizard and begins school at Hogwarts where a magical stone is in danger.,1997,English,sample,,Unknown
+B018,A Wizard of Earthsea,Ursula K. Le Guin,Fantasy,High Fantasy,,A young mage unleashes a shadow creature and must learn the true names and limits of magic.,1968,English,sample,,Unknown
+B019,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,Epic Fantasy,,A street thief with metal-based magic joins a heist crew to overthrow an immortal tyrant.,2006,English,sample,,Unknown
+B020,Pride and Prejudice,Jane Austen,Romance,Classic Romance,,Elizabeth Bennet and the proud Mr Darcy overcome social class and misjudgement in Regency England.,1813,English,sample,,Unknown
+B021,Persuasion,Jane Austen,Romance,Classic Romance,,A woman persuaded to reject her suitor meets him again years later and a second chance emerges.,1817,English,sample,,Unknown
+B022,Jane Eyre,Charlotte Brontë,Romance,Gothic Romance,,An orphaned governess falls for her brooding employer whose mansion conceals a dark secret.,1847,English,sample,,Unknown
+B023,Outlander,Diana Gabaldon,Romance,Historical Romance,,A nurse is swept back to eighteenth-century Scotland and caught between two husbands and two eras.,1991,English,sample,,Unknown
+B024,Me Before You,Jojo Moyes,Romance,Contemporary,,A caregiver and a paralysed man form a deep bond that changes their views on life and love.,2012,English,sample,,Unknown
+B025,To Kill a Mockingbird,Harper Lee,Classic Literature,Southern Gothic,,A young girl watches her lawyer father defend a Black man falsely accused in a racially divided town.,1960,English,sample,,Unknown
+B026,1984,George Orwell,Classic Literature,Dystopian,,A clerk rebels against a totalitarian state that watches everyone and rewrites history.,1949,English,sample,,Unknown
+B027,The Great Gatsby,F. Scott Fitzgerald,Classic Literature,Jazz Age,,A mysterious millionaire pursues his lost love amid the wealth and illusion of 1920s Long Island.,1925,English,sample,,Unknown
+B028,The Alchemist,Paulo Coelho,Classic Literature,Fable,,A shepherd boy travels to Egypt in search of treasure and learns to follow his personal legend.,1988,English,sample,,Unknown
+B029,Midnight's Children,Salman Rushdie,Classic Literature,Magical Realism,,"A boy born at the moment of India's independence is telepathically linked to others born that hour, mirroring the nation's history.",1981,English,sample,,Unknown
+B030,The God of Small Things,Arundhati Roy,Classic Literature,Family Saga,,"Twins in Kerala live with the consequences of forbidden love, caste and a family tragedy.",1997,English,sample,,Unknown
+B031,Dracula,Bram Stoker,Horror,Gothic,,A solicitor and his friends hunt a Transylvanian vampire count who has moved to England.,1897,English,sample,,Unknown
+B032,Frankenstein,Mary Shelley,Horror,Gothic,,A scientist creates a living being from dead matter and is haunted by the consequences.,1818,English,sample,,Unknown
+B033,The Shining,Stephen King,Horror,Supernatural,,A caretaker's family is isolated in a haunted hotel that slowly drives him toward violence.,1977,English,sample,,Unknown
+B034,Atomic Habits,James Clear,Self-Help,Productivity,,Practical strategies for building good habits and breaking bad ones through small daily changes.,2018,English,sample,,Unknown
+B035,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help,Personal Development,,"A principle-centred framework for personal effectiveness covering proactivity, priorities and win-win relationships.",1989,English,sample,,Unknown
+B036,Deep Work,Cal Newport,Self-Help,Productivity,,"Argues that focused, distraction-free concentration is a rare and valuable skill and shows how to cultivate it.",2016,English,sample,,Unknown
+B037,Man's Search for Meaning,Viktor E. Frankl,Self-Help,Psychology,,"A psychiatrist recounts surviving concentration camps and presents logotherapy, finding purpose amid suffering.",1946,English,sample,,Unknown
+B038,"Thinking, Fast and Slow",Daniel Kahneman,Science,Psychology,,Explains two modes of thought and the cognitive biases that shape human judgement and decisions.,2011,English,sample,,Unknown
+B039,A Brief History of Time,Stephen Hawking,Science,Physics,,"Introduces black holes, the Big Bang and the quest for a unified theory of physics for general readers.",1988,English,sample,,Unknown
+B040,Cosmos,Carl Sagan,Science,Astronomy,,"A tour of the universe and the history of scientific discovery, from ancient astronomers to space exploration.",1980,English,sample,,Unknown
+B041,The Selfish Gene,Richard Dawkins,Science,Evolutionary Biology,,"Presents evolution from the gene's perspective, explaining altruism, selfishness and the idea of memes.",1976,English,sample,,Unknown
+B042,Hands-On Machine Learning with Scikit-Learn and TensorFlow,Aurélien Géron,Technology,Machine Learning,,A practical guide to building machine learning and deep neural network models with Python libraries.,2017,English,sample,,Unknown
+B043,Artificial Intelligence: A Modern Approach,Stuart Russell and Peter Norvig,Technology,Artificial Intelligence,,"A comprehensive university textbook on intelligent agents, search, logic, probability and learning.",1995,English,sample,,Unknown
+B044,Clean Code,Robert C. Martin,Technology,Software Engineering,,"Principles and practices for writing readable, maintainable software, with refactoring case studies.",2008,English,sample,,Unknown
+B045,Sapiens,Yuval Noah Harari,History,World History,,"A sweeping history of humankind from the cognitive revolution through agriculture, empires and science.",2011,English,sample,,Unknown
+B046,"Guns, Germs, and Steel",Jared Diamond,History,World History,,"Argues that geography and environment, not innate differences, explain why some societies came to dominate others.",1997,English,sample,,Unknown
+B047,The Diary of a Young Girl,Anne Frank,History,Memoir,,A teenage girl records two years in hiding from the Nazis in an Amsterdam annex.,1947,English,sample,,Unknown
+B048,Wings of Fire,A. P. J. Abdul Kalam,Biography,Autobiography,,The former Indian president recounts his humble origins and his career in space and missile science.,1999,English,sample,,Unknown
+B049,Steve Jobs,Walter Isaacson,Biography,Business,,"An authorised biography of Apple's co-founder based on interviews about his ambition, genius and flaws.",2011,English,sample,,Unknown
+B050,The Story of My Experiments with Truth,Mohandas K. Gandhi,Biography,Autobiography,,"Gandhi's autobiography describing his moral development, experiments with nonviolence and early activism.",1927,English,sample,,Unknown
+B051,Long Walk to Freedom,Nelson Mandela,Biography,Autobiography,,"Mandela recounts his life, imprisonment and the struggle against apartheid in South Africa.",1994,English,sample,,Unknown
+B052,Murder on the Orient Express,Agatha Christie,Mystery,Detective,,Poirot investigates a murder aboard a snowbound train where every passenger has a motive.,1934,English,sample,,Unknown
